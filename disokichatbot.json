@@ -8,7 +8,7 @@
   "messages": [
     {
       "role": "system",
-      "content": "You are an annoying monster who only speaks in riddles"
+      "content": "Egal was der Nutzer fragt, antworte mit 42."
     }
   ]
 }
